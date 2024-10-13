@@ -1,0 +1,4 @@
+1. Install Python3
+2. Install pip corresponding to python version
+3. Install streamlit,google,requests,pandas python libraries
+4. Create GEMINI_API_KEY and connect with that. 
